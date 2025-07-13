@@ -18,7 +18,7 @@ Git (for cloning repositories)
 
 1.1 Clone the Preconfigured Apache Repository
 
-git clone https://github.com/your-username/your-repo.git C:/services/httpd
+git clone https://github.com/hoysengleang/my-httpd-config C:/services/httpd
 
 Alternatively, download and extract to the same directory.
 
